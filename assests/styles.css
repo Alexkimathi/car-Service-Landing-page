@@ -67,3 +67,26 @@
 .intro-img{
     margin-top: 200px;
 }
+.serv{
+    display: flex;
+}
+.section-2{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.image > i{
+    color: red;
+    margin: 20px;
+}
+.card > h1{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.card >p{
+    font-size: 20px;
+    font-weight: 300;
+}
+.card a{
+    font-size: 24px;
+}
